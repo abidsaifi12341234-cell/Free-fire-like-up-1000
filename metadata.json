@@ -1,0 +1,5 @@
+{
+  "name": "Elite Battleground Like Boost",
+  "description": "A 'Free Fire'-inspired web application allowing users to simulate a 'Boost 100 Likes' action for a Player ID, featuring a client-side generated confirmation message.",
+  "requestFramePermissions": []
+}
